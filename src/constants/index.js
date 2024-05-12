@@ -36,12 +36,14 @@ export const PROJECTS = [
     description:
       "Shop Kart is a front-end e-commerce application built using HTML, CSS, and Vanilla JavaScript. It utilizes the FakeStore API to fetch product data, Axios for making API calls, DOM APIs for manipulation, and Bootstrap for styling and UI components.",
     technologies: ["HTML", "CSS", "Axios", "Bootstrap"],
+    link:"https://github.com/abhishek-bisht-21/E-Commerce-App"
   },
   {
     title: "Codeial Social Media App",
     image: project2,
     description:"Codeial is a social networking platform built using Node.js, Express.js, MongoDB, and other web technologies. It allows users to register, create posts, comment on posts, add friends, and engage in various social interactions. A dynamic social media platform for tech enthusiasts. Users can register, connect, and explore a world of knowledge sharing while engaging with captivating posts, comments, and real-time chats",
     technologies: ["HTML", "EJS", "ExpressJS","NodeJS","MongoDB", "Redis"],
+    link: "https://github.com/abhishek-bisht-21/Codeial"
   },
   {
     title: "Portfolio Website",
@@ -49,6 +51,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind", "Framer-Motion"],
+    link: "https://github.com/abhishek-bisht-21/Personal-Portfolio"
   }
 ];
 
