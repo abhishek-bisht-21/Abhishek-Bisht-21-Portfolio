@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
-
+import Technology from "./components/Technology"
 const App = () => {
   return (
     <div className="overflow-x-hidden text-neutral-300 antialiased selection:bg-cyan-300 selection:text-cyan-900">
@@ -13,6 +13,7 @@ const App = () => {
         <Navbar />
         <Hero />
         <About/>
+        <Technology />
       </div>
     </div>
   )
