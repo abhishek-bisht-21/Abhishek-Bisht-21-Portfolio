@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "July 2022 - Present",
     role: "Software Developer",
     company: "SOTI Inc.",
     description: `Developed, maintained, and scaled a robust UI automation framework utilizing C#, enhancing testing efficiency and 
