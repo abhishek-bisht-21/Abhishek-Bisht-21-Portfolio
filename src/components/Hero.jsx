@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/AB_profile_pic.jpg";
+import profilePic from "../assets/AB_profile.jpg";
 
 import { motion } from "framer-motion";
 
@@ -24,7 +24,7 @@ const Hero = () => {
               animate="visible"
               className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl"
             >
-              Kevin Rush
+              Abhishek Bisht
             </motion.h2>
             <motion.span
               variants={container(0.5)}
@@ -51,7 +51,7 @@ const Hero = () => {
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 1, delay: 1.2 }}
               src={profilePic}
-              alt="Kevin Rush"
+              alt="Abhishek Bisht"
             />
           </div>
         </div>
