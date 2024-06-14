@@ -7,7 +7,7 @@ export const HERO_CONTENT = `I'm a dedicated full-stack developer with a focus o
 
 export const ABOUT_TEXT = `
 Hi there! I'm Abhishek Bisht. I graduated in 2022 with a degree in Computer Science from DIT University and am currently working as a Software Developer in Test (SDET) at SOTI. In my role, I design and develop automation scripts for comprehensive user journeys, utilizing tools like Playwright, Appium, and C#. 
-My journey in tech started with an internship at Lenovo, where I developed new features to enhance user experiences using Angular. I'm deeply interested in problem-solving, building scalable backend systems, and exploring the vast possibilities of Web 3.0.I’m currently working on my Problem Solving along with building scalable WebApps. I’m looking to collaborate on free-lance projects and love to contribute to open source projects.  Talk to me about Software Engineering, problem-solving, and building Scalable Backend Systems.
+My journey in tech started with an internship at Lenovo, where I developed new features to enhance user experiences using Angular. I'm deeply interested in problem-solving, building scalable backend systems, and exploring the vast possibilities of Web 3.0. I’m currently working on my Problem Solving along with building scalable WebApps. I’m looking to collaborate on free-lance projects and love to contribute to open source projects.  Talk to me about Software Engineering, problem-solving, and building Scalable Backend Systems.
  `;
 
 export const EXPERIENCES = [
