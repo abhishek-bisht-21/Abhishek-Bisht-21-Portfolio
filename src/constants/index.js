@@ -3,9 +3,12 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 3 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I'm a dedicated full-stack developer with a focus on creating reliable and scalable web applications. Over the past 2 years, I've gained valuable experience working with front-end technologies such as React and Next.js, and back-end technologies including Node.js, Express, and databases like MySQL, PostgreSQL, and MongoDB.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 3 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `
+Hi there! I'm Abhishek Bisht. I graduated in 2022 with a degree in Computer Science from DIT University and am currently working as a Software Developer in Test (SDET) at SOTI. In my role, I design and develop automation scripts for comprehensive user journeys, utilizing tools like Playwright, Appium, and C#. 
+My journey in tech started with an internship at Lenovo, where I developed new features to enhance user experiences using Angular. I'm deeply interested in problem-solving, building scalable backend systems, and exploring the vast possibilities of Web 3.0.I’m currently working on my Problem Solving along with building scalable WebApps. I’m looking to collaborate on free-lance projects and love to contribute to open source projects.  Talk to me about Software Engineering, problem-solving, and building Scalable Backend Systems.
+ `;
 
 export const EXPERIENCES = [
   {
